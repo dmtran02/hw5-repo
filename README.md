@@ -3,4 +3,4 @@ HEAD
 tuf49524
 This is a change made within Github
 master
-THIS IS ANOTHER CHANGE
+THIS IS SOME SAMPLE TEXT
